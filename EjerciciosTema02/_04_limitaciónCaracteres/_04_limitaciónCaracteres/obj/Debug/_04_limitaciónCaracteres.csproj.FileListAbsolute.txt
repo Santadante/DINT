@@ -1,0 +1,45 @@
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.exe.config
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.exe
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.pdb
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres_MarkupCompile.cache
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres_MarkupCompile.lref
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.g.resources
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.Properties.Resources.resources
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.exe
+C:\Users\Usuario\Desktop\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.pdb
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.exe.config
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.exe
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.pdb
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csprojAssemblyReference.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\MainWindow.g.cs
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\App.g.cs
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres_MarkupCompile.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres_MarkupCompile.lref
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\MainWindow.baml
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.g.resources
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.Properties.Resources.resources
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csproj.GenerateResource.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csproj.CoreCompileInputs.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.exe
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.pdb
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.exe.config
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.exe
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\bin\Debug\_04_limitaciónCaracteres.pdb
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csprojAssemblyReference.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\MainWindow.g.cs
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\App.g.cs
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres_MarkupCompile.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres_MarkupCompile.lref
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\MainWindow.baml
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.g.resources
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.Properties.Resources.resources
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csproj.GenerateResource.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.csproj.CoreCompileInputs.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.exe
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_04_limitaciónCaracteres\_04_limitaciónCaracteres\obj\Debug\_04_limitaciónCaracteres.pdb

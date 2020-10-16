@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_ImagenOpacidadAjuste", "_03_ImagenOpacidadAjuste\_03_ImagenOpacidadAjuste.csproj", "{FD1CD414-12B2-45F1-BCA6-69FB42B013A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1CD414-12B2-45F1-BCA6-69FB42B013A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1CD414-12B2-45F1-BCA6-69FB42B013A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1CD414-12B2-45F1-BCA6-69FB42B013A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1CD414-12B2-45F1-BCA6-69FB42B013A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4AD2BD-7B31-4C0E-9140-DBEABA89A888}
+	EndGlobalSection
+EndGlobal
