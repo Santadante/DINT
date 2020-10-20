@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_01_AdivinarNumero"
         mc:Ignorable="d"
-        Title="MainWindow" Height="240" Width="626">
+        Title="Adivina" Height="240" Width="626">
     <Grid>
         <TextBlock 
             HorizontalAlignment="Left" 

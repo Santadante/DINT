@@ -1,0 +1,61 @@
+﻿<Window x:Class="_06_Opacidad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_06_Opacidad"
+        mc:Ignorable="d"
+        Title="Opacidades" Height="384" Width="786.5">
+    <Window.Resources>
+        <Style TargetType="Image" x:Key="CambioOpacidad">
+            <Setter Property="Opacity" Value="0.5"></Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Opacity" Value="1"></Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Image 
+            x:Name="cuatroImage"
+            HorizontalAlignment="Left" 
+            Height="246" 
+            Margin="58,60,0,0" 
+            VerticalAlignment="Top"
+            Width="163"
+            Source="episodioIV.jpg"
+            Opacity="0.5"
+            MouseEnter="cuatroImage_MouseEnter"
+            MouseLeave="cuatroImage_MouseLeave"
+            />
+            <!--Style="{StaticResource CambioOpacidad}"-->
+
+        <Image 
+            x:Name="cincoImage"
+            HorizontalAlignment="Left" 
+            Height="246" 
+            Margin="318,60,0,0" 
+            VerticalAlignment="Top"
+            Width="162"
+            Source="episodioV.jpg"
+            Opacity="0.5"
+            MouseEnter="cuatroImage_MouseEnter"
+            MouseLeave="cuatroImage_MouseLeave"/> 
+            <!--Style="{StaticResource CambioOpacidad}"-->
+
+        <Image 
+            x:Name="seisImage"
+            HorizontalAlignment="Left" 
+            Height="246" 
+            Margin="570,60,0,0" 
+            VerticalAlignment="Top"
+            Width="159"
+            Source="episodioVI.jpg"
+            Opacity="0.5"
+            MouseEnter="cuatroImage_MouseEnter"
+            MouseLeave="cuatroImage_MouseLeave"/> 
+            <!--Style="{StaticResource CambioOpacidad}"-->
+            
+    </Grid>
+</Window>

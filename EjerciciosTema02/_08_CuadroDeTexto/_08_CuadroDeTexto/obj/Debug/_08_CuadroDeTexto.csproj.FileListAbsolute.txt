@@ -1,0 +1,30 @@
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\bin\Debug\_08_CuadroDeTexto.exe.config
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\bin\Debug\_08_CuadroDeTexto.exe
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\bin\Debug\_08_CuadroDeTexto.pdb
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto_MarkupCompile.cache
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto_MarkupCompile.lref
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.g.resources
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.exe
+C:\Users\Usuario\Desktop\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.pdb
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\bin\Debug\_08_CuadroDeTexto.exe.config
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\bin\Debug\_08_CuadroDeTexto.exe
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\bin\Debug\_08_CuadroDeTexto.pdb
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.csprojAssemblyReference.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\MainWindow.g.cs
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\App.g.cs
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto_MarkupCompile.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto_MarkupCompile.lref
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\MainWindow.baml
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.g.resources
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.Properties.Resources.resources
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.csproj.GenerateResource.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.csproj.CoreCompileInputs.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.exe
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_08_CuadroDeTexto\_08_CuadroDeTexto\obj\Debug\_08_CuadroDeTexto.pdb

@@ -1,0 +1,45 @@
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.exe.config
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.exe
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.pdb
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad_MarkupCompile.cache
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad_MarkupCompile.lref
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.g.resources
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.Properties.Resources.resources
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.exe
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.pdb
+C:\Users\Usuario\Desktop\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csprojAssemblyReference.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.exe.config
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.exe
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.pdb
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csprojAssemblyReference.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\MainWindow.g.cs
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\App.g.cs
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad_MarkupCompile.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad_MarkupCompile.lref
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\MainWindow.baml
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.g.resources
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.Properties.Resources.resources
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csproj.GenerateResource.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csproj.CoreCompileInputs.cache
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.exe
+E:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.pdb
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.exe.config
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.exe
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\bin\Debug\_06_Opacidad.pdb
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csprojAssemblyReference.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\MainWindow.g.cs
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\App.g.cs
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad_MarkupCompile.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad_MarkupCompile.lref
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\MainWindow.baml
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.g.resources
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.Properties.Resources.resources
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csproj.GenerateResource.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.csproj.CoreCompileInputs.cache
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.exe
+G:\DAM\2º DAM\DINT\UT2\actividades Tema 2\Ejercicios\_06_Opacidad\_06_Opacidad\obj\Debug\_06_Opacidad.pdb
